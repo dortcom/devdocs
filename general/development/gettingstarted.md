@@ -1,9 +1,8 @@
----
+
 title: Getting started
 tags:
   - Core development
   - Processes
----
 
 :::info Ready to code?
 
